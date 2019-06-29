@@ -1,4 +1,4 @@
-# Search Algorithms - Jaisimha Manipatruni , Verified by Github Community 
+# Search Algorithms - Jaisimha Manipatruni
 Basic algorithms for single-shot grid-based 2D path finding.
 
 Single-shot means that the algorithms are tailored to answering a single pathfinding query (as opposed to other pathfinders that are suited to solving sequences of alike queries, e.g. queries on the same map but with different start and goal locations).
